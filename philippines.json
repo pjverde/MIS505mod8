@@ -1,0 +1,25 @@
+{
+	"Year": "the year the data is from"
+	"Primary Enrollment": "the total number of pupils enrolled in primary education"
+	"GDP": "the country's GDP in the given year, in current USD($)"
+}
+{"Year":"2001","Primary Enrollment":12759918.0,"GDP":78921234457.5487060547}
+{"Year":"2002","Primary Enrollment":12826218.0,"GDP":84307291973.8157958984}
+{"Year":"2003","Primary Enrollment":12970635.0,"GDP":87039145965.2825927734}
+{"Year":"2004","Primary Enrollment":13017973.0,"GDP":95002028504.6903991699}
+{"Year":"2005","Primary Enrollment":13083744.0,"GDP":107419961717.6929931641}
+{"Year":"2006","Primary Enrollment":13006648.0,"GDP":127652859201.0410003662}
+{"Year":"2007","Primary Enrollment":13145210.0,"GDP":155980378253.6340026855}
+{"Year":"2008","Primary Enrollment":13411286.0,"GDP":181624577154.6789855957}
+{"Year":"2009","Primary Enrollment":13686643.0,"GDP":175974711592.1449890137}
+{"Year":"2010","Primary Enrollment":null,"GDP":208368726861.4070129395}
+{"Year":"2011","Primary Enrollment":null,"GDP":234216930369.7959899902}
+{"Year":"2012","Primary Enrollment":null,"GDP":261920509950.5549926758}
+{"Year":"2013","Primary Enrollment":null,"GDP":283902728260.716003418}
+{"Year":"2014","Primary Enrollment":14460377.0,"GDP":297483247101.0380249023}
+{"Year":"2015","Primary Enrollment":14453060.0,"GDP":306446140628.708984375}
+{"Year":"2016","Primary Enrollment":14293635.0,"GDP":318626761492.8670043945}
+{"Year":"2017","Primary Enrollment":14039867.0,"GDP":328480867142.6900024414}
+{"Year":"2018","Primary Enrollment":13418841.0,"GDP":346842094175.2399902344}
+{"Year":"2019","Primary Enrollment":13195088.0,"GDP":376823278561.1959838867}
+{"Year":"2020","Primary Enrollment":13214472.0,"GDP":361751116292.541015625}
